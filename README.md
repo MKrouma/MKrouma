@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Header](https://raw.githubusercontent.com/MKrouma/MKrouma/MKrouma/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MKrouma/MKrouma/readme_header.png "Header")](https://some-url.dev/)
 
 
 

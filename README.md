@@ -20,6 +20,11 @@ Below I list the technologies and tools that I like to use frequently.
 ![](https://img.shields.io/badge/BestPratices-VersionControl,DataVC,CI,UnitTest,VirtualEnv-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 
 
+## GitHub Stats
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrouma&theme=onedark" /> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkrouma&layout=compact&theme=onedark)](https://github.com/mkrouma/github-readme-stats)
+
 <!--
 **MKrouma/MKrouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

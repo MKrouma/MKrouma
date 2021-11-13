@@ -6,7 +6,7 @@
 
 
 ## 🛠 Technologies & Tools
-<!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/spacex.jpeg" width="30px"> -->
+<img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="30px">
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 
 

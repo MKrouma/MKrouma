@@ -1,10 +1,9 @@
 ### Hi there 👋
-[![Background-image](https://raw.githubusercontent.com/MKrouma/Mkrouma/Mkrouma/spacex.jpeg "Background-image")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MKrouma/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-
-
-
-
+## 🛠 Technologies & Tools
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/spacex.jpeg" width="30px">
+![](https://img.shields.io/badge/<OS>-<Mac, Linux & Windows>-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 
 
 

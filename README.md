@@ -1,4 +1,6 @@
 <!-- ### Hi there 👋 -->
+<img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="1000px">
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Header](https://raw.githubusercontent.com/MKrouma/MKrouma/readme_header.png "Header")](https://some-url.dev/)
 
@@ -7,6 +9,7 @@
 
 ## 🛠 Technologies & Tools
 <img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="30px">
+
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 
 

@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="500px">
+<img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="900px">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hello, my name is Mamadou Krouma and I'm a remote sensing scientist. I'm from Ivory Coast and living there. I'm currently working at Satelligence. You can find me on [![LinkedIn][2.2]][2].

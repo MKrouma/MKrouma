@@ -20,10 +20,18 @@ Below I list the technologies and tools that I like to use frequently.
 ![](https://img.shields.io/badge/BestPratices-VersionControl,DataVC,CI,UnitTest,VirtualEnv-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 
 
-## GitHub Stats
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrouma&theme=onedark" /> -->
+## 🌱 GitHub Stats
+[![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&theme=onedark)](https://github.com/Mkrouma/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkrouma&layout=compact&theme=onedark)](https://github.com/mkrouma/github-readme-stats)
+<!-- ![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&hide=contribs,prs) -->
+
+
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrouma&hide=Python&theme=onedark" />
+
+<a href="https://github.com/MKrouma/MKrouma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKrouma&hide=Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=1" />
+</a> -->
 
 <!--
 **MKrouma/MKrouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

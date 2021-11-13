@@ -21,7 +21,7 @@ Below I list the technologies and tools that I like to use frequently.
 
 
 ## 🌱 GitHub Stats
-[![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&theme=onedark)](https://github.com/Mkrouma/github-readme-stats)
+[![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&theme=dark)](https://github.com/Mkrouma/github-readme-stats)
 
 <!-- ![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&hide=contribs,prs) -->
 

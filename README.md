@@ -2,16 +2,22 @@
 <img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="1000px">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Header](https://raw.githubusercontent.com/MKrouma/MKrouma/readme_header.png "Header")](https://some-url.dev/)
+Hello, my name is Mamadou Krouma and I'm a remote sensing scientist. I'm from Ivory Coast and living there. I'm currently working at Satelligence. You can find me on [![LinkedIn][2.2]][2].
 
-
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/mamadoukrouma
 
 
 ## 🛠 Technologies & Tools
-<img src="https://raw.githubusercontent.com/MKrouma/MKrouma/master/spacex.jpeg" width="30px">
+Below I list the technologies and tools that I like to use frequently.
 
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
-
+<!-- OS -->
+![](https://img.shields.io/badge/OS-Mac,Linux,Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Geospatial-GDAL,geopandas,rasterio,xarray-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-Sklearn,MLFlow,Flask,Heroku-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BestPratices-VersionControl,DataVC,CI,UnitTest,VirtualEnv-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 
 
 <!--

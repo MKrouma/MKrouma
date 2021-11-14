@@ -15,7 +15,7 @@ Below I list the technologies and tools that I like to use frequently.
 
 <!-- OS -->
 ![](https://img.shields.io/badge/OS-Mac,Linux,Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Geospatial-GDAL,geopandas,rasterio,xarray-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Geospatial-GDAL,Geopandas,Rasterio,Xarray-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-Sklearn,MLFlow,Flask,Heroku-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BestPratices-VersionControl,DataVC,CI,UnitTest,VirtualEnv-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 

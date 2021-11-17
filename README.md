@@ -21,15 +21,15 @@ Below I list the technologies and tools that I like to use frequently.
 
 
 ## 🌱 GitHub Stats
-[![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&theme=dark&hide_border=true)](https://github.com/Mkrouma/github-readme-stats)
+[![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&hide_border=true)](https://github.com/Mkrouma/github-readme-stats)
 
 
 ## 🔭 Project 
 <a href="https://github.com/MKrouma/CHAR01-OH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MKrouma&repo=CHAR01-OH&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MKrouma&repo=CHAR01-OH" />
 </a>
 <a href="https://github.com/MKrouma/Jedha_ML_PROD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MKrouma&repo=Jedha_ML_PROD&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MKrouma&repo=Jedha_ML_PROD" />
 </a>
 
 

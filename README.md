@@ -33,11 +33,11 @@ Below I list the technologies and tools that I like to use frequently.
 </a>
 
 
-<!-- ![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&hide=contribs,prs) -->
+<!-- ![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&theme=vue-dark&hide=contribs,prs) -->
 
 
 <!-- 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrouma&hide=Python&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrouma&theme=vue-dark&hide=Python&theme=onedark" />
 
 <a href="https://github.com/MKrouma/MKrouma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKrouma&hide=Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=1" />

@@ -32,6 +32,10 @@ Below I list the technologies and tools that I like to use frequently.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MKrouma&theme=vue-dark&repo=Jedha_ML_PROD" />
 </a>
 
+<br>
+
+## 📫 Contact
+How to reach me: mamadoukroumageoscience@gmail.com
 
 <!-- ![Mamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrouma&theme=vue-dark&hide=contribs,prs) -->
 
